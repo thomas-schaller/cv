@@ -8,7 +8,6 @@ Avec une distribution LaTeX standard :
 
 ```bash
 pdflatex -interaction=nonstopmode cv.tex
-pdflatex -interaction=nonstopmode cv.tex
 ```
 
 Le PDF sera généré sous :
@@ -27,5 +26,4 @@ cv.pdf
 
 ## Principe
 
-Le contenu repris ici est fondé sur le CV PDF fourni. Les informations
-non présentes dans le document source n'ont pas été inventées.
+Le cv est basé sur mes expériences.
